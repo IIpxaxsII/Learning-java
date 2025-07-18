@@ -1,15 +1,16 @@
-public class variables {
-    public static void main(String[] args) {
-        int a = 88;
-        int b= 77;
-        System.out.println(a+b);
+public class variables{
 
-boolean check = false;
-System.out.println(check);
+                            public static void main(String[] args) {
+                                System.out.println("Welcome To My Profile!");
+                                System.out.println("I Am /'Paras' ");
+                                System.out.println("Professional Developer");
 
-String hi = "Hello";
-System.out.println(hi);
+
+
+
+
+                                
 
     }
-    
+
 }
