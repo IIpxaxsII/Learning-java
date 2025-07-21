@@ -13,6 +13,8 @@ public class add {
 
         System.out.println("The sum is: "+ sum);
         
+
+        input.close();
     }
 
 
