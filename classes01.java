@@ -1,4 +1,6 @@
 class calculator{
+    int num;
+
     public int add(int a, int b){
 
         return a + b;
