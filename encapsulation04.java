@@ -1,6 +1,8 @@
 class human {
-    private int age = 11;
-    private String name = "Paras";
+    private int age;
+    private String name;
+
+
 
     public void showName(){
         System.out.println("Name : "+name);
