@@ -13,7 +13,9 @@ class Parent1{
 
 public class inheritance05 {
     public static void main(String[] args) {
-       
+       Parent2 obj = new Parent2();
+
+       obj.show();
         
  
     }
