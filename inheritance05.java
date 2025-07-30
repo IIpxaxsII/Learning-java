@@ -1,6 +1,6 @@
 class Parent1{
      public void show(){
-        System.out.println("In parent1");
+        System.out.println("in parent1");
 
      }
     }
