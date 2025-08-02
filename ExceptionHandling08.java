@@ -7,7 +7,7 @@ public class ExceptionHandling08 {
             j = 18/i;
 
         } catch (Exception e) {
-            System.out.println(" diide by zro");
+            System.out.println(" diide by  ro");
         }
         System.out.println(j); 
     }
