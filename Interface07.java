@@ -5,19 +5,15 @@ interface A{
 }
 
 class B implements A{
+    @Override
     public void config(){
         System.out.println("In config");
     }
-
+    @Override
     public void show(){
         System.out.println("In show");
     }
 }
-
-
-
-
-
 
 
 
