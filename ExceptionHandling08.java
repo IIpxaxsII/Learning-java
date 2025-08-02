@@ -7,7 +7,7 @@ public class ExceptionHandling08 {
             j = 18/i;
 
         } catch (Exception e) {
-            System.out.println(" divide by zero");
+            System.out.println(" diide by zero");
         }
         System.out.println(j); 
     }
